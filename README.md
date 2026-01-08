@@ -77,8 +77,8 @@ https://www.kaggle.com/datasets/lucasgreenwell/ocean-five-factor-personality-tes
 - Jupyter Notebook
 
 # Структура репозитория
-ocean_analysis.ipynb — основной ноутбук с анализом
-README.md — описание проекта
+- ocean_analysis.ipynb — основной ноутбук с анализом
+- README.md — описание проекта
 
 # Основные результаты
 - Распределение показателя экстраверсии близко к нормальному  
